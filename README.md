@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Elton  
+**Aspiring Robotics & Software Developer | Self-Taught Tech Explorer**
+
+### About Me
+I'm on a solo journey learning software and electronics by building real-world projects. From smart gloves to maze solvers, I explore, break, and rebuild ideas in Python, Arduino, and web tech.
+
+### Skills
+- Python (with Pygame, recursion, basic data structures)
+- Arduino & Circuit Design
+- HTML/CSS
+- Logical thinking and problem solving
+- Learning Discrete Math, Linear Algebra, and Robotics
+
+### Projects
+- **Smart Exo-Glove (In Progress)** – Arduino-powered glove for hand support
+- **Maze Solver** – Python pathfinding with visualization
+- **Quote Generator** – JavaScript web mini-app
+- **Fibonacci Visualizer** – Recursive animation in Python
+
+### Goals
+- Get into the Advance Africa Scholarship & pursue Data Science or Web Dev
+- Build tools that support people with physical challenges
+- Eventually build a game based on my Zion mythology
+
+---
+
+Feel free to explore my repos below!
